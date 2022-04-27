@@ -175,13 +175,10 @@
   z-index: 1;
 }
 
-li {
-  list-style: none;
-}
-
 .table__cell {
   margin: 0;
   width: 250px;
+  list-style: none;
 }
 
 .table__heading {
@@ -377,8 +374,6 @@ li {
 
 }
 
-.footer__column_content_social {}
-
 .footer__column-heading {
   margin-top: 0;
   margin-bottom: 20px;
@@ -389,6 +384,7 @@ li {
 
 .footer__column-links {
   margin-bottom: 16px;
+  list-style: none;
 }
 
 .footer__column-link {
