@@ -2,5 +2,6 @@
     width: 90%;
     display: flex;
     justify-content: space-between;
-    min-height: 350px;
+    vertical-align: middle;
+    margin: 0 auto;
   }
